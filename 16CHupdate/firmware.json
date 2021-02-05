@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 2,
+    "version": 3,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/mhm1930/esp32.SHS.16CH/master/16CHupdate/CH16_Template.ino.esp32_V2.bin"
+    "bin": "/mhm1930/esp32.SHS.16CH/master/16CHupdate/CH16_Template.ino.esp32_V3.bin"
 }
