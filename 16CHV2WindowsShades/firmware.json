@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 3,
+    "version": 4,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/mhm1930/esp32.SHS.16CH/master/16CHV2WindowsShades/CH16_WindowShades.ino.esp32.bin"
