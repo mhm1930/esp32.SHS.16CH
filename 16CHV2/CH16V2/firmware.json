@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/mhm1930/esp32.SHS.16CH/master/16CHV2/CH16V2/CH16V2_V2.bin"
+    "bin": "/mhm1930/esp32.SHS.16CH/master/16CHV2/CH16V2/CH16_V2.ino.esp32.bin"
 }
